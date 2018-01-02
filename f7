@@ -1,1 +1,2 @@
 create table stu;
+insert into stu varchar(30);
